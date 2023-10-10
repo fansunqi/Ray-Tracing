@@ -1,0 +1,6 @@
+/home/fansunqi/diffusion/graphic/submit/THUComputerGraphics/code/build/CMakeFiles/rebuild_cache.dir
+/home/fansunqi/diffusion/graphic/submit/THUComputerGraphics/code/build/CMakeFiles/edit_cache.dir
+/home/fansunqi/diffusion/graphic/submit/THUComputerGraphics/code/build/CMakeFiles/PA4.dir
+/home/fansunqi/diffusion/graphic/submit/THUComputerGraphics/code/build/deps/vecmath/CMakeFiles/rebuild_cache.dir
+/home/fansunqi/diffusion/graphic/submit/THUComputerGraphics/code/build/deps/vecmath/CMakeFiles/edit_cache.dir
+/home/fansunqi/diffusion/graphic/submit/THUComputerGraphics/code/build/deps/vecmath/CMakeFiles/vecmath.dir
